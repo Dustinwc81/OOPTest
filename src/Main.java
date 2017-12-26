@@ -16,6 +16,6 @@ public class Main
 
         DeluxeBurger db = new DeluxeBurger();
         db.itemizeHamburger();
-        //ugh
+
     }
 }
